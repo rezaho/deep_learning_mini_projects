@@ -18,5 +18,5 @@ More information can be found in the report: [Mini Prject 2: Description](https:
 The source codes can be found in the `./Proj2/` directory. For testing the project, run `./Proj2/text.py` source file.
 
 
-# Aknowledgements
+## Aknowledgements
 This project was done in collaboration with [@alex-mocanu](https://github.com/alex-mocanu/) and [@mammadhajili](https://github.com/mammadhajili/).
