@@ -2,7 +2,7 @@
 This repositories contains the project files for the "Deep Learning 2019" mini projects.
 
 # General Decription
-The codes have been implemented in [Python 3.6.x](https://www.python.org/downloads/release/python-360/) using [PyTorch 1.0.0](https://pytorch.org/get-started/locally/) framework. If you are using newer version of PyTorch, please check for the compatibility of the codes.
+The codes have been implemented in [Python 3.6.x](https://www.python.org/downloads/release/python-360/) using [PyTorch 1.0.x](https://pytorch.org/get-started/locally/) framework. If you are using newer version of PyTorch, please check for the compatibility of the codes.
 
 ## Mini Project 1: Different Arcitechtures in Image Classification
 Image classification is a very common task in the field of Computer Vision. In this project the objective is to see how different architectures behave in comparing two digits represented as 14x14 images.
