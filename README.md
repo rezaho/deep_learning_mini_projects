@@ -7,7 +7,7 @@ The codes has been implemented in [Python 3.6.x](https://www.python.org/download
 ## Mini Project 1: Different Arcitechtures in Image Classification
 Image classification is a very common task in the field of Computer Vision. In this project the objective is to see how different architectures behave in comparing two digits represented as 14x14 images.
 Several techniques can be used to carry out this task and among these. We have tried three different approaches to solve this problem, including direct comparison with/without auxiliary loss, and direct digit classification using a combination fully connected and convolutional layers. \\
-More information can be found in the report: [Mini Project 1: Description](https://github.com/rezaho/deep_learning_mini_projects/blob/master/Proj1/report.pdf) . \\
+More information can be found in the report: [Mini Project 1: Description](https://github.com/rezaho/deep_learning_mini_projects/blob/master/Proj1/report.pdf) .  
 The source codes can be found in the `./Proj1/` directory. For testing the project run `./Proj1/test.py` source file.
 
 ## Mini Project 2: 
